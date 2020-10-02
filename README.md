@@ -42,7 +42,7 @@
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- Please don't remove this: Grab your favourite social icons from https://github.com/carlsednaoui/gitsocial -->
 
 Follow me on [![alt text][1.1]][1]
 
